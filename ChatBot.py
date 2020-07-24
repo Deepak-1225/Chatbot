@@ -185,7 +185,7 @@ def response(sentence, userID='123', show_details=False):
             results.pop(0)
             
 
-def Lalith_Chatbot():
+def Chatbot():
     #Creating a chatbot Naive approach
     def Chat():
         x=input("Hey What can i do for you?")
@@ -197,4 +197,4 @@ def Lalith_Chatbot():
         else:
             print ("Thank you and Have a Nice Day\nI feel your problem got solved.")
     return Chat()
-Lalith_Chatbot()
+Chatbot()
