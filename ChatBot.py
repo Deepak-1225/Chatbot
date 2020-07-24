@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-
-Created on Mon Jun  3 21:45:56 2019
-
-@author: Lalith Bharadwaj
-
-"""
 
 # things we need for NLP
 import nltk
